@@ -49,6 +49,6 @@ cd client
 npm start   // to start the client side
 
 connect with me 
-[linkedin
-]([url](https://www.linkedin.com/in/here-you-can-hire-me?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYNHpjjozQNWCmwXle%2F3Gcw%3D%3D
-)
+https://www.linkedin.com/in/here-you-can-hire-me?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYNHpjjozQNWCmwXle%2F3Gcw%3D%3D
+
+
