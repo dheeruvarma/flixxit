@@ -1,12 +1,16 @@
 # flixxit
 
 - **Upgrad FSD capstone project**
+- https://flixxit-movie-app.vercel.app/
 
 How to Use
 
 Signup: User registration using email, username, and password.
+
 Signin: Login with registered email and password.
+
 Enjoy Streaming: Watch TV shows and movies, select genre types, and click 'Play' to start streaming.
+
 Logout: Access the dropdown menu on the top right corner to logout.
 
 - main points
@@ -25,6 +29,7 @@ Logout: Access the dropdown menu on the top right corner to logout.
 - Installation
 
 Clone the repository:
+https://github.com/dheeruvarma/flixxit
 
 Install NPM packages:
 cd server
